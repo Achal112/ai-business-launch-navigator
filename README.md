@@ -114,11 +114,24 @@ OPENAI_API_KEY = "your_api_key_here"
 ## 📊 Screenshots
 
 * User Input Page
-![user_input_img](images/Screenshot 2026-05-19 152051.png)
+![user_input_img](images/user_input.png)
+
 * AI Recommendation Output
+![user_output_img](images/ai_strategy.png)
+![roadmap_img](images/roadmap.png)
+![step_img](images/step.png)
+
 * Financial Dashboard
+![financial_img](images/finance.png)
+![profit_img](images/profit.png)
+![break_even_img](images/break-even.png)
+  
 * Risk Analysis
+![risk_img](images/risk.png)
+![risk_img](images/risk-analysis.png)
+
 * Final Report
+![dashboard_img](images/dashboard.png)
 
 ## 📌 Use Case
 
