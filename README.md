@@ -73,6 +73,8 @@ This system helps reduce uncertainty and improves planning for first-time entrep
 ---
 
 ## 📂 Project Structure
+ai-business-launch-navigator/
+│
 ├── app.py # Main Streamlit application
 ├── database.py # Database operations
 ├── risk.py # Risk analysis logic
@@ -111,9 +113,8 @@ OPENAI_API_KEY = "your_api_key_here"
 
 ## 📊 Screenshots
 
-(Add screenshots here in GitHub)
-
 * User Input Page
+  
 * AI Recommendation Output
 * Financial Dashboard
 * Risk Analysis
