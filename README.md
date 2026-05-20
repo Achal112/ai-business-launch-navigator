@@ -114,7 +114,7 @@ OPENAI_API_KEY = "your_api_key_here"
 ## 📊 Screenshots
 
 * User Input Page
-  
+![user_input_img](images/Screenshot 2026-05-19 152051.png)
 * AI Recommendation Output
 * Financial Dashboard
 * Risk Analysis
