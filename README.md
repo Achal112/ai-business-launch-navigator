@@ -74,14 +74,13 @@ This system helps reduce uncertainty and improves planning for first-time entrep
 
 ## 📂 Project Structure
 ai-business-launch-navigator/
-│
-├── app.py # Main Streamlit application
-├── database.py # Database operations
-├── risk.py # Risk analysis logic
-├── roadmap.py # Roadmap generation
-├── model.pkl # ML model (if used)
-├── requirements.txt # Dependencies
-├── database.db # SQLite database
+-- app.py # Main Streamlit application
+-- database.py # Database operations
+-- risk.py # Risk analysis logic
+-- roadmap.py # Roadmap generation
+-- model.pkl # ML model (if used)
+-- requirements.txt # Dependencies
+-- database.db # SQLite database
 
 
 ---
